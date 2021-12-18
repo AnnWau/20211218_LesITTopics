@@ -1,1 +1,2 @@
 Dit is demo02.
+Dit is een nieuwe regel.
